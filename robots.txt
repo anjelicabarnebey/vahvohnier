@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eanukeevi.ailife.dev/sitemap.xml
